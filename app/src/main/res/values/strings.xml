@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Repoertoar1</string>
+    <string name="movie_name">Unesite ime filma</string>
+    <string name="search">Pretrazi</string>
+    <string name="made_by">Jelena Radeka</string>
+    <string name="splash_key">splash_settings</string>
+    <string name="notif_key">notif_setings</string>
+    <string name="toast_key">toast_setings</string>
+    <string name="settings">podesavanja</string>
+</resources>
